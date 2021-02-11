@@ -7,6 +7,8 @@ Walk through the linked list code in the curriculum and understand it well. Then
 
 2. Create a singly linked list
 Write a function main. Within the function, using the linked list class above, create a linked list with the name SLL and add the following items to your linked list: Apollo, Boomer, Helo, Husker, Starbuck.
+
+
 Add Tauhida to the list.
 Remove squirrel from the list.
 Implement a function called insertBefore() in the class that inserts a new node before a given node containing a key.
